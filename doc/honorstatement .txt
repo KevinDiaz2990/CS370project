@@ -1,0 +1,5 @@
+
+
+	I, Kevin Diaz, claim that the deliverable is my original work.
+	I would like to give credit to json-simple https://code.google.com/p/json-simple/ in helping me extract data from the JSON file
+	
